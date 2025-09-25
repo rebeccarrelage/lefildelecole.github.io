@@ -1,11 +1,4 @@
 /* Exemple : Personnalisation complète */
-:root {
-  --brand-color: #E91E63; // Rose
-  --text-color: #222;
-  --background-color: #fff;
-  --link-color: #E91E63;
-}
-
 body {
     font-family: 'Raleway', sans-serif;
     background-color: #f5f5f5;
@@ -49,6 +42,25 @@ nav ul {
 nav a {
   color: #4CAF50;
   text-decoration: none;
+}
+
+form {
+  max-width: 500px;
+  margin: 0 auto;
+}
+input, textarea {
+  width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
 }
 
 
