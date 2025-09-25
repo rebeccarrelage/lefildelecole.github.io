@@ -1,9 +1,4 @@
 title: Le fil de l'école
 description: Une courte description de votre association.
-theme: minima
+theme: jekyll-theme-so-simple
 logo: "/images/logo1.png"
-minima : 
-  skin : dark
-  social_links : 
-  - {platform : twitter, user_url :"https://twitter/rebeccarrelage"}
-  
