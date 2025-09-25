@@ -1,4 +1,11 @@
 /* Exemple : Personnalisation complète */
+:root {
+  --brand-color: #E91E63; // Rose
+  --text-color: #222;
+  --background-color: #fff;
+  --link-color: #E91E63;
+}
+
 body {
     font-family: 'Raleway', sans-serif;
     background-color: #f5f5f5;
@@ -30,3 +37,7 @@ button {
     border-radius: 4px;
     cursor: pointer;
 }
+
+
+
+
