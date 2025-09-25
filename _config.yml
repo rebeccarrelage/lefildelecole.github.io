@@ -1,4 +1,5 @@
 title: Le fil de l'école
 description: Une courte description de votre association.
-theme: minima
+theme: jekyll-theme-so-simple
+remote_theme: mmistakes/so-simple-theme
 logo: "/images/logo1.png"
