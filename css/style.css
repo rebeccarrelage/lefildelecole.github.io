@@ -38,6 +38,18 @@ button {
     cursor: pointer;
 }
 
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+  background-color: #f1f1f1;
+  padding: 1rem;
+}
+nav a {
+  color: #4CAF50;
+  text-decoration: none;
+}
 
 
 
