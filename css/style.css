@@ -1,3 +1,7 @@
+---
+---
+
+@import "{{ site.theme }}";
 /* Exemple : Personnalisation complète */
 body {
     font-family: 'Raleway', sans-serif;
